@@ -2,7 +2,7 @@
   "name": "json-server-express",
   "version": "1.0.0",
   "description": "A simple application using json-server alongside express.js",
-  "main": "index.js",
+  "main": "functions/index.js",
   "scripts": {
     "build": "netlify-lambda build express"
   },
